@@ -12,7 +12,7 @@
 		"php": ">=7.1.0"
 	},
 	"require-dev": {
-		"phpstan/phpstan": "^0.12.18",
+		"phpstan/phpstan": "^1.11.7",
 		"tracy/tracy": "^2.7",
 		"phpstan/phpstan-nette": "^0.12.6"
 	},
